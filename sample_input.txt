@@ -1,0 +1,5 @@
+Hello contact us at support@example.com
+You can also reach john.doe@gmail.com
+Emergency mail: admin@company.in
+Duplicate test: support@example.com
+Invalid mail: hello@com
